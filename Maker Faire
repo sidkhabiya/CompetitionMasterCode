@@ -48,8 +48,8 @@
  		{
  			motor[puncher2] = 127;
  		}
-   	else
- 	  {
+   		else
+   		{
  			motor[puncher2] = 0;
  		}
  
